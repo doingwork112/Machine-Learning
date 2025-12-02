@@ -20,3 +20,11 @@ The project focuses on **binary classification** using the
 - Target: Binary label (`0 = malignant`, `1 = benign`).
 
 The dataset is loaded directly from scikit-learn, so no extra download is needed.
+
+## 3. Package Documentation
+
+Each algorithm in `ml_package` ships with its own README that explains the **purpose**, **core functionality**, and **usage examples**:
+
+- `ml_package/knn/knn.md`: K-Nearest Neighbors classifier overview, hyperparameters, and sample code.
+- `ml_package/decision_tree/decision_tree.md`: Decision Tree classifier overview, splitting strategy, and sample code.
+
