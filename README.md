@@ -131,3 +131,7 @@ This runs the unit tests for:
 
 More detailed analysis for each method is included inside the corresponding notebooks.
 
+## Note on commit identity:
+My earliest commits were made before I configured Git identity on this Mac, so the system’s default hostname/email appeared.
+I updated my Git configuration from this point.
+
