@@ -94,7 +94,7 @@ print("Decision Tree accuracy:", dt.score(X_test, y_test))
 ## Notebooks
 
 - **01\_data\_exploration\_and\_preprocessing.ipynb**: basic EDA, feature scaling, and train/test split.  
-- **02\_classical\_ml\_algorithms.ipynb**: compares Logistic Regression, k-NN, Decision Trees, Random Forest, Gradient Boosting, Naive Bayes, and SVM on the breast cancer task, with short analysis.  
+- **02\_classical\_ml\_algorithms.ipynb**: compares Logistic Regression, k-NN, Decision Trees, Random Forest, Gradient Boosting, Naive Bayes, Voting Classifier, Stacking Classifier SVM on the breast cancer task, with short analysis.  
 - **03\_custom\_package\_demo.ipynb**: end-to-end demo of the custom `ml_package` (KNN + Decision Tree) on the dataset.  
 - **04\_neural\_networks.ipynb**: MLP (sklearn) and Keras models, training curves, and result discussion.  
 - **05\_clustering\_and\_dimensionality\_reduction.ipynb**: PCA / t-SNE visualization and clustering (K-Means, hierarchical, DBSCAN) with ARI and silhouette analysis.
@@ -134,4 +134,3 @@ More detailed analysis for each method is included inside the corresponding note
 ## Note on commit identity:
 My earliest commits were made before I configured Git identity on this Mac, so the system’s default hostname/email appeared.
 I updated my Git configuration from this point.
-
